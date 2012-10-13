@@ -1,9 +1,9 @@
-(defproject ring "1.2.0-SNAPSHOT"
+(defproject org.clojars.michaelsbradleyjr/ring "1.2.0-SNAPSHOT"
   :description "A Clojure web applications library."
   :url "https://github.com/ring-clojure/ring"
   :dependencies
     [[ring/ring-core "1.2.0-SNAPSHOT"]
-     [ring/ring-devel "1.2.0-SNAPSHOT"]
+     [org.clojars.michaelsbradleyjr/ring-devel "1.2.0-SNAPSHOT"]
      [ring/ring-jetty-adapter "1.2.0-SNAPSHOT"]
      [ring/ring-servlet "1.2.0-SNAPSHOT"]]
   :plugins
